@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Joseph Hickey  
-# ASTR400B Homework 2  
-# 1/29/2020  
-# Write code that can read in the data from the MW_000.txt file  
-
-# In[5]:
-
-
 import numpy as np
 import astropy.units as u
 
